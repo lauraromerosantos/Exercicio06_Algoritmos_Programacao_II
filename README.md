@@ -1,6 +1,6 @@
 # Exercicio06 - Algoritmos e Programação II
 
-  ▷ Construa um algoritmo que possua uma __tupla__ com os números escritos por extenso de **“zero” a “nove”**. Peça ao usuário para digitar um nome de 0 a 9 e retorne a ele o número por extenso, sem usar estruturas condicionais (if e switch).
+  ▷ Construa um algoritmo que possua uma __tupla__ com os números escritos por extenso de **“zero” a “nove”**. Peça ao usuário para digitar um número de 0 a 9 e retorne a ele o número por extenso, sem usar estruturas condicionais (if e switch).
 
 Link para a resolução 01: [Clique aqui](https://github.com/lauraromerosantos/Exercicio06_Algoritmos_Programacao_II/blob/master/Tuple.py) 
 
